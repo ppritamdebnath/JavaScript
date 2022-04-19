@@ -30,7 +30,8 @@ const COLOR_BLUE = "#00F";
 const COLOR_ORANGE = "#FF7F00";
 let color = COLOR_ORANGE;
 alert(color);*/
-
+//let currentUserName = "John";
+//let ourPlanetName = "Earth";
 
 let admin;
 let name;
