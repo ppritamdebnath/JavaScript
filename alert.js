@@ -1,10 +1,10 @@
 //alert( "I'm JavaScript!" );
-let message;
+/*let message;
 message = 'Hello!';
 alert(message);
 
 let message1 = 'Hello1111!'; // define the variable and assign the value
-alert(message1);
+alert(message1);*/
 
 let message2;
 message2 = 'Hello2!';
