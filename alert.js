@@ -11,7 +11,7 @@ message2 = 'Hello2!';
 message2 = 'World2!'; // value changed
 alert(message2);
 
-let hello = 'Hello world!';
+/*let hello = 'Hello world!';
 let message3;
 message3 = hello;
 alert(hello); // Hello world!
