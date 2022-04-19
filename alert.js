@@ -55,4 +55,4 @@ let color = COLOR_ORANGE;
 alert(color);
 
 
-const pageLoadTime = 5;
+
