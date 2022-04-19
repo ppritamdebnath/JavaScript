@@ -4,7 +4,7 @@ message = 'Hello!';
 
 alert(message);
 
-let message = 'Hello1111!'; // define the variable and assign the value
+/*let message = 'Hello1111!'; // define the variable and assign the value
 
 alert(message); // Hello!
 
@@ -52,7 +52,7 @@ const COLOR_ORANGE = "#FF7F00";
 
 // ...when we need to pick a color
 let color = COLOR_ORANGE;
-alert(color);
+alert(color);*/
 
 
 
